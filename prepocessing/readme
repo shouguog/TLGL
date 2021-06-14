@@ -1,4 +1,4 @@
 
-count_LBL_5prime.sh: script to generate gene expression
+count_LBL_5prime.sh: script to generate gene expression data
 VDJ_GRCh38.sh: script to generate TCR profiles
 dataMergeSeurat.R: script to merge gene expression to Seurat object 
