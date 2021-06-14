@@ -1,1 +1,10 @@
+LGL_sva_diffusion_2000.R: script to reduce dimensions with diffusion map
+sva_diffusion_map_111_1200cells.zip: reduced dimensions of randomly selected cells
+check_TCellactivation_smooth_DM1.R: script to examine T cell activation along DM1 
+DM111allSum10_1200_TactivationTCR2D.png: T cell activation and TCR expression along DM1 and DM2 
+check_TCellactivation_3D.R: script to examine T cell activation along DM1
+check_TCellactivation_smooth_allpathways.R: script to examine pathways’ activation along DM1
 
+trendanalysis/check_DM_AUCell_trend_CD8_newcolor.R: script to fit pathways’ activation along DM1
+trendanalysis/DM111check_1200_CD48_DM1_allset_CD8_newcolor.png: 
+trendanalysis/DM111check_1200_CD48_DM2_allset_CD8_newcolor.png: 
