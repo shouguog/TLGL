@@ -1,3 +1,4 @@
+setwd("H:/Bradley/Integration/powerlaw/pairedchain")
 ###The following code is used to check the power law identification
 library("poweRlaw")
 rm(list=ls())
