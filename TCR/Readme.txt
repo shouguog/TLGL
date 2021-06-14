@@ -1,4 +1,4 @@
-clonalSummary.R: script to summarize TCR profiles
+clonalSummary.R: script to summarize and format TCR profiles
 pairDataVJplot.R: script to generate skyscraper plots
 cdr3length_plot_new.R: script to examine CDR3 length
 BchainDiversity.R: script to calculate diversity indexes
